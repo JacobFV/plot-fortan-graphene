@@ -2,7 +2,7 @@
 
 ## Running the Twisted Bilayer Graphene Band Structure Calculator
 
-Hey beautiful! I've converted those Fortran files to Python for your professor's research project. Here's everything you need to know to run the band structure calculations:
+Hey Khadija! I've converted those Fortran files to Python for your professor's research project. Here's everything you need to know to run the band structure calculations:
 
 ### 📋 **Quick Setup**
 
@@ -74,4 +74,4 @@ Hope this helps with your research! The physics here is absolutely beautiful - t
 
 Let me know if you or your professor have any questions about the conversion or need help extending the code!
 
-xoxo ❤️ 
+love ❤️ 
