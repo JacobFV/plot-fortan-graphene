@@ -18,6 +18,12 @@ The Python version maintains the same algorithmic structure with the following f
 
 ## Installation
 
+0. (Optional) Create a Python virtual env: 
+```bash
+python -m venv venv
+source venv/bin/activate  # On Windows: venv\Scripts\activate
+```
+
 1. Install Python dependencies:
 ```bash
 pip install -r requirements.txt
